@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a mathematician who uses software to understand the world around me better and sometimes to make money. 
+
 <!--
 **mazerakham/mazerakham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
