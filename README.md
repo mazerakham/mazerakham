@@ -2,6 +2,10 @@
 
 I am a mathematician who uses software to understand the world around me better and sometimes to make money. 
 
+My profile picture is an approximation of a horizontal surface in the 3-dimensional Hiesenberg Group.  The Heisenberg Group is a Carnot Group.  Carnot groups are everywhere.  If you were an electron, you would "feel" like you are in a Carnot Group.  The electric and magnetic fields push you along helices, and you can "feel" the curvature and torque of spacetime as the characteristics of your helical arc through spacetime.  This surface is what you get if, instead of trying to draw a geodesic through spacetime, you instead try to draw a geodesic surface in spacetime.  
+
+I believe the types of surfaces that can form in a Carnot group (or more generally a sub-riemannian manifold) respecting the contact structure of the group have deep things to say about reality. 
+
 <!--
 **mazerakham/mazerakham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
